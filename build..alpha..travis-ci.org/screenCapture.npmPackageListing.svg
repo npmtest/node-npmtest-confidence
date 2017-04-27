@@ -1,19 +1,19 @@
 <svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="254" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 03:04:04 +0000    87956 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 03:04:04 +0000      105 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 03:04:04 +0000     1658 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 03:04:04 +0000     8988 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 03:04:04 +0000     1503 bytes  bin/confidence</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 03:04:04 +0000     1121 bytes  examples/ab.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 03:04:04 +0000    37310 bytes  images/confidence.png</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 03:04:04 +0000     3087 bytes  lib/id.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 03:04:04 +0000      205 bytes  lib/index.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 03:04:04 +0000     9763 bytes  lib/store.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 03:04:04 +0000     2803 bytes  package.json</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 03:04:04 +0000     4584 bytes  test/bin.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 03:04:04 +0000     2465 bytes  test/id.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 03:04:04 +0000    14364 bytes  test/store.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-27 19:59:03 +0000    87956 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-27 19:59:03 +0000      105 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-27 19:59:03 +0000     1658 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-27 19:59:03 +0000     8988 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-27 19:59:03 +0000     1503 bytes  bin/confidence</tspan>
+<tspan x="10" y="106">  5.  2017-04-27 19:59:03 +0000     1121 bytes  examples/ab.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-27 19:59:03 +0000    37310 bytes  images/confidence.png</tspan>
+<tspan x="10" y="138">  7.  2017-04-27 19:59:03 +0000     3087 bytes  lib/id.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-27 19:59:03 +0000      205 bytes  lib/index.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-27 19:59:03 +0000     9763 bytes  lib/store.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-27 19:59:03 +0000     2803 bytes  package.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-27 19:59:03 +0000     4584 bytes  test/bin.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-27 19:59:03 +0000     2465 bytes  test/id.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-27 19:59:03 +0000    14364 bytes  test/store.js</tspan>
 </text>
 </svg>
