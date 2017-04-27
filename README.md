@@ -1,6 +1,6 @@
 # npmtest-confidence
 
-#### test coverage for  [confidence (v3.0.2)](https://github.com/hapijs/confidence#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-confidence.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-confidence) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-confidence.svg)](https://travis-ci.org/npmtest/node-npmtest-confidence)
+#### basic test coverage for  [confidence (v3.0.2)](https://github.com/hapijs/confidence#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-confidence.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-confidence) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-confidence.svg)](https://travis-ci.org/npmtest/node-npmtest-confidence)
 
 #### Configuration API
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-confidence/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-confidence/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-confidence/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-confidence/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-confidence/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-confidence/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-confidence/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-confidence/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-confidence/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-confidence/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-confidence/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-confidence/build/coverage.html/index.html)
 
